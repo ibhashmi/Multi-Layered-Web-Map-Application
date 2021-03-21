@@ -17,7 +17,9 @@ Each country is color coded according to where their population lies in the foll
 
 
 ### Screenshots: 
-<img src="https://user-images.githubusercontent.com/43527512/111891307-74255400-89c8-11eb-9cb9-d9d3dcf33373.PNG" width = 500>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/43527512/111891307-74255400-89c8-11eb-9cb9-d9d3dcf33373.PNG" width = 800>
+</p>
 
 
 
