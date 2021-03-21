@@ -1,13 +1,13 @@
 # Multi-Layered-Web-Map-Application
 
 This is a web map designed to show two unique sets of data:
-- #World Population Data
-- #Data of Volcanoes in the US
+- [World Population Data](#world_population)
+- [Data of Volcanoes in the US](#volcano_data)
 
 The specific data shown is determined by a control panel that the user can use to switch between the data
 
 
-## #World-Populations
+## World Populations <a name="world_population"></a>
 
 This layer shows each country color coded according to where their population lies in the following range:
 - 🟩Green: Under 10 million
