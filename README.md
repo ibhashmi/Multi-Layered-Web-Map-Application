@@ -18,7 +18,7 @@ Each country is color coded according to where their population lies in the foll
 
 ### Screenshots: 
 <img src="Screenshots/europe.png" width = 300>
-![Europe](https://github.com/ibhashmi/Multi-Layered-Web-Map-Application/blob/master/europe.png?raw=true)
+
 
 
 ## Data of volcanoes in the US
