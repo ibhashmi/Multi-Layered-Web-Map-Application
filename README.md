@@ -45,7 +45,7 @@ This layer shows each country color coded according to where their population li
 
 
 
-## Data of volcanoes in the US
+## Data of volcanoes in the US <a name="volcano_data"></a>
 
 This layer displays the location of every volcano in the US using circular points. These points are color coded according to where their corresponding volcano's elevation lies in the following elevation range:
 
