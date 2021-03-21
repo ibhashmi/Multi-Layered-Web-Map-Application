@@ -59,10 +59,10 @@ This layer displays the location of every volcano in the US using circular point
 <p align="center">
   <img src="https://user-images.githubusercontent.com/43527512/111892259-20b70400-89d0-11eb-8f69-8647ae8d933f.PNG" width = 800>
 </p>
-
+<br/>
 
 <p align="center">
-  <b>Clicking on a point</b>
+  <b>Clicking on a point:</b>
 </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/43527512/111892206-ac7c6080-89cf-11eb-8be3-247c44525fbe.PNG" width = 800>
