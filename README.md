@@ -24,6 +24,7 @@ Each country is color coded according to where their population lies in the foll
 <p align="center">
   <img src="https://user-images.githubusercontent.com/43527512/111891835-45a97800-89cc-11eb-9873-e8b64903f936.PNG" width = 800>
   
+  
 </p>
 
 <p align="center">
@@ -32,6 +33,7 @@ Each country is color coded according to where their population lies in the foll
 <p align="center">
   <img src="https://user-images.githubusercontent.com/43527512/111891837-48a46880-89cc-11eb-8fb6-8c9ed3a216bc.PNG" width = 800>
   
+  
 </p>
 
 <p align="center">
@@ -39,6 +41,7 @@ Each country is color coded according to where their population lies in the foll
 </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/43527512/111891307-74255400-89c8-11eb-9cb9-d9d3dcf33373.PNG" width = 800>
+  
   
 </p>
 
