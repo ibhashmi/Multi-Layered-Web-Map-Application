@@ -16,6 +16,9 @@ Each country is color coded according to where their population lies in the foll
 - 🟥Red: Over 100 million
 
 
+### Screenshots: 
+
+
 ## Data of volcanoes in the US
 
 This layer displays the location of every volcano in the US using circular points. These points are color coded according to where their corresponding volcano's elevation lies in the following elevation range:
@@ -23,3 +26,6 @@ This layer displays the location of every volcano in the US using circular point
 - 🟩Green: Under 1500m
 - 🟧Orange: Between 1500m and 2500m
 - 🟥Red: Over 2500m
+
+
+### Screenshots: 
