@@ -1,6 +1,6 @@
 # Multi-Layered-Web-Map-Application
 
-This is a web map designed to show two unique sets of data:
+This is a web map created using Python to show two unique sets of data:
 - [World Population Data](#world_population)
 - [Data of Volcanoes in the US](#volcano_data)
 
