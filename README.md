@@ -19,20 +19,11 @@ Each country is color coded according to where their population lies in the foll
 ### Screenshots: 
 World Map
 <p align="center">
-  <h4>World Map</h4>
-  
+  <h4>Europe</h4>
   <img src="https://user-images.githubusercontent.com/43527512/111891307-74255400-89c8-11eb-9cb9-d9d3dcf33373.PNG" width = 800>
 </p>
 
-<p align="center">
-  <b>Europe</b>
-  <img src="https://user-images.githubusercontent.com/43527512/111891307-74255400-89c8-11eb-9cb9-d9d3dcf33373.PNG" width = 800>
-</p>
 
-<p align="center">
-  <b>South-East Asia</b>
-  <img src="https://user-images.githubusercontent.com/43527512/111891307-74255400-89c8-11eb-9cb9-d9d3dcf33373.PNG" width = 800>
-</p>
 
 ## Data of volcanoes in the US
 
